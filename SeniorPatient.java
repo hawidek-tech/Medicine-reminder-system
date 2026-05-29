@@ -1,5 +1,3 @@
-package model;
-
 public class SeniorPatient extends Patient {
 
     public SeniorPatient(String name, int age) {
