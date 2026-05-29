@@ -1,4 +1,3 @@
-package service;
 
 import model.Medicine;
 import java.util.ArrayList;
