@@ -9,7 +9,7 @@ Features:
 
 How to Run
   Compile:
-javac model/.java service/.java Main.java
+javac model/*.java service/*.java Main.java
 Run:
  java Main
 
