@@ -20,4 +20,4 @@ jobs:
 
       - name: Compile Project
         run: |
-          javac model/*.java service/*.java Main.java
+          javac *.java
