@@ -1,5 +1,3 @@
-package model;
-
 public class Medicine {
 
     private String medicineName;
